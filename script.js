@@ -1,1 +1,1 @@
-const arr = ["Branch 1"];
+const arr = ["Branch 1","Branch 2"];
